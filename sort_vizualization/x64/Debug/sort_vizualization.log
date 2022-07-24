@@ -1,2 +1,13 @@
 ﻿  Main.cpp
+C:\Users\Илья\Desktop\VS2022\c++\sort_vizualization\sort_vizual\sort_vizualization\ArrayDrawer.hpp(8,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Илья\Desktop\VS2022\c++\sort_vizualization\sort_vizual\sort_vizualization\Menu.hpp(38,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\Desktop\VS2022\c++\sort_vizualization\sort_vizual\sort_vizualization\Main.cpp(23,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Илья\Desktop\VS2022\c++\sort_vizualization\sort_vizual\sort_vizualization\Main.cpp(25,49): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Илья\Desktop\VS2022\c++\sort_vizualization\sort_vizual\sort_vizualization\Main.cpp(43,17): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Илья\Desktop\VS2022\c++\sort_vizualization\sort_vizual\sort_vizualization\Main.cpp(112,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ShuffleAlgorithms.cpp
+C:\Users\Илья\Desktop\VS2022\c++\sort_vizualization\sort_vizual\sort_vizualization\ShuffleAlgorithms.cpp(47,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\Desktop\VS2022\c++\sort_vizualization\sort_vizual\sort_vizualization\ShuffleAlgorithms.cpp(61,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Илья\Desktop\VS2022\c++\sort_vizualization\sort_vizual\sort_vizualization\ShuffleAlgorithms.cpp(9): warning C4715: 'generate_shuffle': not all control paths return a value
   sort_vizualization.vcxproj -> C:\Users\Илья\Desktop\VS2022\c++\sort_vizualization\sort_vizual\x64\Debug\sort_vizualization.exe
